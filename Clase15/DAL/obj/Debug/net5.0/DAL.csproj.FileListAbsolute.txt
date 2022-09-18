@@ -1,0 +1,15 @@
+D:\ISTEA\POO\Clase15\DAL\bin\Debug\net5.0\DAL.deps.json
+D:\ISTEA\POO\Clase15\DAL\bin\Debug\net5.0\DAL.dll
+D:\ISTEA\POO\Clase15\DAL\bin\Debug\net5.0\ref\DAL.dll
+D:\ISTEA\POO\Clase15\DAL\bin\Debug\net5.0\DAL.pdb
+D:\ISTEA\POO\Clase15\DAL\bin\Debug\net5.0\Entidades.dll
+D:\ISTEA\POO\Clase15\DAL\bin\Debug\net5.0\Entidades.pdb
+D:\ISTEA\POO\Clase15\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\ISTEA\POO\Clase15\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISTEA\POO\Clase15\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\ISTEA\POO\Clase15\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\ISTEA\POO\Clase15\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\ISTEA\POO\Clase15\DAL\obj\Debug\net5.0\DAL.csproj.CopyComplete
+D:\ISTEA\POO\Clase15\DAL\obj\Debug\net5.0\DAL.dll
+D:\ISTEA\POO\Clase15\DAL\obj\Debug\net5.0\ref\DAL.dll
+D:\ISTEA\POO\Clase15\DAL\obj\Debug\net5.0\DAL.pdb

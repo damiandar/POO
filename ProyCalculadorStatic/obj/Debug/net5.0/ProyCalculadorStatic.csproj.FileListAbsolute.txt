@@ -1,0 +1,16 @@
+D:\ISTEA\POO\ProyCalculadorStatic\bin\Debug\net5.0\ProyCalculadorStatic.exe
+D:\ISTEA\POO\ProyCalculadorStatic\bin\Debug\net5.0\ProyCalculadorStatic.deps.json
+D:\ISTEA\POO\ProyCalculadorStatic\bin\Debug\net5.0\ProyCalculadorStatic.runtimeconfig.json
+D:\ISTEA\POO\ProyCalculadorStatic\bin\Debug\net5.0\ProyCalculadorStatic.runtimeconfig.dev.json
+D:\ISTEA\POO\ProyCalculadorStatic\bin\Debug\net5.0\ProyCalculadorStatic.dll
+D:\ISTEA\POO\ProyCalculadorStatic\bin\Debug\net5.0\ref\ProyCalculadorStatic.dll
+D:\ISTEA\POO\ProyCalculadorStatic\bin\Debug\net5.0\ProyCalculadorStatic.pdb
+D:\ISTEA\POO\ProyCalculadorStatic\obj\Debug\net5.0\ProyCalculadorStatic.csproj.AssemblyReference.cache
+D:\ISTEA\POO\ProyCalculadorStatic\obj\Debug\net5.0\ProyCalculadorStatic.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISTEA\POO\ProyCalculadorStatic\obj\Debug\net5.0\ProyCalculadorStatic.AssemblyInfoInputs.cache
+D:\ISTEA\POO\ProyCalculadorStatic\obj\Debug\net5.0\ProyCalculadorStatic.AssemblyInfo.cs
+D:\ISTEA\POO\ProyCalculadorStatic\obj\Debug\net5.0\ProyCalculadorStatic.csproj.CoreCompileInputs.cache
+D:\ISTEA\POO\ProyCalculadorStatic\obj\Debug\net5.0\ProyCalculadorStatic.dll
+D:\ISTEA\POO\ProyCalculadorStatic\obj\Debug\net5.0\ref\ProyCalculadorStatic.dll
+D:\ISTEA\POO\ProyCalculadorStatic\obj\Debug\net5.0\ProyCalculadorStatic.pdb
+D:\ISTEA\POO\ProyCalculadorStatic\obj\Debug\net5.0\ProyCalculadorStatic.genruntimeconfig.cache

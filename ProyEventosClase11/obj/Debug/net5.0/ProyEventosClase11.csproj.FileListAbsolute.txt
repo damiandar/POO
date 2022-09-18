@@ -1,0 +1,16 @@
+D:\ISTEA\POO\ProyEventosClase11\bin\Debug\net5.0\ProyEventosClase11.exe
+D:\ISTEA\POO\ProyEventosClase11\bin\Debug\net5.0\ProyEventosClase11.deps.json
+D:\ISTEA\POO\ProyEventosClase11\bin\Debug\net5.0\ProyEventosClase11.runtimeconfig.json
+D:\ISTEA\POO\ProyEventosClase11\bin\Debug\net5.0\ProyEventosClase11.runtimeconfig.dev.json
+D:\ISTEA\POO\ProyEventosClase11\bin\Debug\net5.0\ProyEventosClase11.dll
+D:\ISTEA\POO\ProyEventosClase11\bin\Debug\net5.0\ref\ProyEventosClase11.dll
+D:\ISTEA\POO\ProyEventosClase11\bin\Debug\net5.0\ProyEventosClase11.pdb
+D:\ISTEA\POO\ProyEventosClase11\obj\Debug\net5.0\ProyEventosClase11.csproj.AssemblyReference.cache
+D:\ISTEA\POO\ProyEventosClase11\obj\Debug\net5.0\ProyEventosClase11.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISTEA\POO\ProyEventosClase11\obj\Debug\net5.0\ProyEventosClase11.AssemblyInfoInputs.cache
+D:\ISTEA\POO\ProyEventosClase11\obj\Debug\net5.0\ProyEventosClase11.AssemblyInfo.cs
+D:\ISTEA\POO\ProyEventosClase11\obj\Debug\net5.0\ProyEventosClase11.csproj.CoreCompileInputs.cache
+D:\ISTEA\POO\ProyEventosClase11\obj\Debug\net5.0\ProyEventosClase11.dll
+D:\ISTEA\POO\ProyEventosClase11\obj\Debug\net5.0\ref\ProyEventosClase11.dll
+D:\ISTEA\POO\ProyEventosClase11\obj\Debug\net5.0\ProyEventosClase11.pdb
+D:\ISTEA\POO\ProyEventosClase11\obj\Debug\net5.0\ProyEventosClase11.genruntimeconfig.cache

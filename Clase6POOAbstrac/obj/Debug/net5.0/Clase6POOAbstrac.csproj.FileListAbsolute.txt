@@ -1,0 +1,16 @@
+D:\istea\POO\Clase6POOAbstrac\bin\Debug\net5.0\Clase6POOAbstrac.exe
+D:\istea\POO\Clase6POOAbstrac\bin\Debug\net5.0\Clase6POOAbstrac.deps.json
+D:\istea\POO\Clase6POOAbstrac\bin\Debug\net5.0\Clase6POOAbstrac.runtimeconfig.json
+D:\istea\POO\Clase6POOAbstrac\bin\Debug\net5.0\Clase6POOAbstrac.runtimeconfig.dev.json
+D:\istea\POO\Clase6POOAbstrac\bin\Debug\net5.0\Clase6POOAbstrac.dll
+D:\istea\POO\Clase6POOAbstrac\bin\Debug\net5.0\ref\Clase6POOAbstrac.dll
+D:\istea\POO\Clase6POOAbstrac\bin\Debug\net5.0\Clase6POOAbstrac.pdb
+D:\istea\POO\Clase6POOAbstrac\obj\Debug\net5.0\Clase6POOAbstrac.csproj.AssemblyReference.cache
+D:\istea\POO\Clase6POOAbstrac\obj\Debug\net5.0\Clase6POOAbstrac.GeneratedMSBuildEditorConfig.editorconfig
+D:\istea\POO\Clase6POOAbstrac\obj\Debug\net5.0\Clase6POOAbstrac.AssemblyInfoInputs.cache
+D:\istea\POO\Clase6POOAbstrac\obj\Debug\net5.0\Clase6POOAbstrac.AssemblyInfo.cs
+D:\istea\POO\Clase6POOAbstrac\obj\Debug\net5.0\Clase6POOAbstrac.csproj.CoreCompileInputs.cache
+D:\istea\POO\Clase6POOAbstrac\obj\Debug\net5.0\Clase6POOAbstrac.dll
+D:\istea\POO\Clase6POOAbstrac\obj\Debug\net5.0\ref\Clase6POOAbstrac.dll
+D:\istea\POO\Clase6POOAbstrac\obj\Debug\net5.0\Clase6POOAbstrac.pdb
+D:\istea\POO\Clase6POOAbstrac\obj\Debug\net5.0\Clase6POOAbstrac.genruntimeconfig.cache

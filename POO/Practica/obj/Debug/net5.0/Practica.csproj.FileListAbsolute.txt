@@ -1,0 +1,16 @@
+F:\Proyectos\POO\Practica\bin\Debug\net5.0\Practica.exe
+F:\Proyectos\POO\Practica\bin\Debug\net5.0\Practica.deps.json
+F:\Proyectos\POO\Practica\bin\Debug\net5.0\Practica.runtimeconfig.json
+F:\Proyectos\POO\Practica\bin\Debug\net5.0\Practica.runtimeconfig.dev.json
+F:\Proyectos\POO\Practica\bin\Debug\net5.0\Practica.dll
+F:\Proyectos\POO\Practica\bin\Debug\net5.0\ref\Practica.dll
+F:\Proyectos\POO\Practica\bin\Debug\net5.0\Practica.pdb
+F:\Proyectos\POO\Practica\obj\Debug\net5.0\Practica.csproj.AssemblyReference.cache
+F:\Proyectos\POO\Practica\obj\Debug\net5.0\Practica.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proyectos\POO\Practica\obj\Debug\net5.0\Practica.AssemblyInfoInputs.cache
+F:\Proyectos\POO\Practica\obj\Debug\net5.0\Practica.AssemblyInfo.cs
+F:\Proyectos\POO\Practica\obj\Debug\net5.0\Practica.csproj.CoreCompileInputs.cache
+F:\Proyectos\POO\Practica\obj\Debug\net5.0\Practica.dll
+F:\Proyectos\POO\Practica\obj\Debug\net5.0\ref\Practica.dll
+F:\Proyectos\POO\Practica\obj\Debug\net5.0\Practica.pdb
+F:\Proyectos\POO\Practica\obj\Debug\net5.0\Practica.genruntimeconfig.cache

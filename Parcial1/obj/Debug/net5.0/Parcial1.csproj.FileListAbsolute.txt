@@ -1,0 +1,16 @@
+D:\ISTEA\POO\Parcial1\obj\Debug\net5.0\Parcial1.csproj.AssemblyReference.cache
+D:\ISTEA\POO\Parcial1\obj\Debug\net5.0\Parcial1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISTEA\POO\Parcial1\obj\Debug\net5.0\Parcial1.AssemblyInfoInputs.cache
+D:\ISTEA\POO\Parcial1\obj\Debug\net5.0\Parcial1.AssemblyInfo.cs
+D:\ISTEA\POO\Parcial1\obj\Debug\net5.0\Parcial1.csproj.CoreCompileInputs.cache
+D:\ISTEA\POO\Parcial1\bin\Debug\net5.0\Parcial1.exe
+D:\ISTEA\POO\Parcial1\bin\Debug\net5.0\Parcial1.deps.json
+D:\ISTEA\POO\Parcial1\bin\Debug\net5.0\Parcial1.runtimeconfig.json
+D:\ISTEA\POO\Parcial1\bin\Debug\net5.0\Parcial1.runtimeconfig.dev.json
+D:\ISTEA\POO\Parcial1\bin\Debug\net5.0\Parcial1.dll
+D:\ISTEA\POO\Parcial1\bin\Debug\net5.0\ref\Parcial1.dll
+D:\ISTEA\POO\Parcial1\bin\Debug\net5.0\Parcial1.pdb
+D:\ISTEA\POO\Parcial1\obj\Debug\net5.0\Parcial1.dll
+D:\ISTEA\POO\Parcial1\obj\Debug\net5.0\ref\Parcial1.dll
+D:\ISTEA\POO\Parcial1\obj\Debug\net5.0\Parcial1.pdb
+D:\ISTEA\POO\Parcial1\obj\Debug\net5.0\Parcial1.genruntimeconfig.cache

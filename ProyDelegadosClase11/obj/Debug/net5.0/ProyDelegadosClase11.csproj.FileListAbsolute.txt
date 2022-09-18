@@ -1,0 +1,16 @@
+D:\ISTEA\POO\ProyDelegadosClase11\bin\Debug\net5.0\ProyDelegadosClase11.exe
+D:\ISTEA\POO\ProyDelegadosClase11\bin\Debug\net5.0\ProyDelegadosClase11.deps.json
+D:\ISTEA\POO\ProyDelegadosClase11\bin\Debug\net5.0\ProyDelegadosClase11.runtimeconfig.json
+D:\ISTEA\POO\ProyDelegadosClase11\bin\Debug\net5.0\ProyDelegadosClase11.runtimeconfig.dev.json
+D:\ISTEA\POO\ProyDelegadosClase11\bin\Debug\net5.0\ProyDelegadosClase11.dll
+D:\ISTEA\POO\ProyDelegadosClase11\bin\Debug\net5.0\ref\ProyDelegadosClase11.dll
+D:\ISTEA\POO\ProyDelegadosClase11\bin\Debug\net5.0\ProyDelegadosClase11.pdb
+D:\ISTEA\POO\ProyDelegadosClase11\obj\Debug\net5.0\ProyDelegadosClase11.csproj.AssemblyReference.cache
+D:\ISTEA\POO\ProyDelegadosClase11\obj\Debug\net5.0\ProyDelegadosClase11.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISTEA\POO\ProyDelegadosClase11\obj\Debug\net5.0\ProyDelegadosClase11.AssemblyInfoInputs.cache
+D:\ISTEA\POO\ProyDelegadosClase11\obj\Debug\net5.0\ProyDelegadosClase11.AssemblyInfo.cs
+D:\ISTEA\POO\ProyDelegadosClase11\obj\Debug\net5.0\ProyDelegadosClase11.csproj.CoreCompileInputs.cache
+D:\ISTEA\POO\ProyDelegadosClase11\obj\Debug\net5.0\ProyDelegadosClase11.dll
+D:\ISTEA\POO\ProyDelegadosClase11\obj\Debug\net5.0\ref\ProyDelegadosClase11.dll
+D:\ISTEA\POO\ProyDelegadosClase11\obj\Debug\net5.0\ProyDelegadosClase11.pdb
+D:\ISTEA\POO\ProyDelegadosClase11\obj\Debug\net5.0\ProyDelegadosClase11.genruntimeconfig.cache

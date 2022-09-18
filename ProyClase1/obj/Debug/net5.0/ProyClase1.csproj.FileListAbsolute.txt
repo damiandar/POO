@@ -1,0 +1,16 @@
+F:\Proyectos\POO\ProyClase1\bin\Debug\net5.0\ProyClase1.exe
+F:\Proyectos\POO\ProyClase1\bin\Debug\net5.0\ProyClase1.deps.json
+F:\Proyectos\POO\ProyClase1\bin\Debug\net5.0\ProyClase1.runtimeconfig.json
+F:\Proyectos\POO\ProyClase1\bin\Debug\net5.0\ProyClase1.runtimeconfig.dev.json
+F:\Proyectos\POO\ProyClase1\bin\Debug\net5.0\ProyClase1.dll
+F:\Proyectos\POO\ProyClase1\bin\Debug\net5.0\ref\ProyClase1.dll
+F:\Proyectos\POO\ProyClase1\bin\Debug\net5.0\ProyClase1.pdb
+F:\Proyectos\POO\ProyClase1\obj\Debug\net5.0\ProyClase1.csproj.AssemblyReference.cache
+F:\Proyectos\POO\ProyClase1\obj\Debug\net5.0\ProyClase1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proyectos\POO\ProyClase1\obj\Debug\net5.0\ProyClase1.AssemblyInfoInputs.cache
+F:\Proyectos\POO\ProyClase1\obj\Debug\net5.0\ProyClase1.AssemblyInfo.cs
+F:\Proyectos\POO\ProyClase1\obj\Debug\net5.0\ProyClase1.csproj.CoreCompileInputs.cache
+F:\Proyectos\POO\ProyClase1\obj\Debug\net5.0\ProyClase1.dll
+F:\Proyectos\POO\ProyClase1\obj\Debug\net5.0\ref\ProyClase1.dll
+F:\Proyectos\POO\ProyClase1\obj\Debug\net5.0\ProyClase1.pdb
+F:\Proyectos\POO\ProyClase1\obj\Debug\net5.0\ProyClase1.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+F:\Proyectos\POO\Eventos\bin\Debug\net5.0\Eventos.exe
+F:\Proyectos\POO\Eventos\bin\Debug\net5.0\Eventos.deps.json
+F:\Proyectos\POO\Eventos\bin\Debug\net5.0\Eventos.runtimeconfig.json
+F:\Proyectos\POO\Eventos\bin\Debug\net5.0\Eventos.runtimeconfig.dev.json
+F:\Proyectos\POO\Eventos\bin\Debug\net5.0\Eventos.dll
+F:\Proyectos\POO\Eventos\bin\Debug\net5.0\ref\Eventos.dll
+F:\Proyectos\POO\Eventos\bin\Debug\net5.0\Eventos.pdb
+F:\Proyectos\POO\Eventos\obj\Debug\net5.0\Eventos.csproj.AssemblyReference.cache
+F:\Proyectos\POO\Eventos\obj\Debug\net5.0\Eventos.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proyectos\POO\Eventos\obj\Debug\net5.0\Eventos.AssemblyInfoInputs.cache
+F:\Proyectos\POO\Eventos\obj\Debug\net5.0\Eventos.AssemblyInfo.cs
+F:\Proyectos\POO\Eventos\obj\Debug\net5.0\Eventos.csproj.CoreCompileInputs.cache
+F:\Proyectos\POO\Eventos\obj\Debug\net5.0\Eventos.dll
+F:\Proyectos\POO\Eventos\obj\Debug\net5.0\ref\Eventos.dll
+F:\Proyectos\POO\Eventos\obj\Debug\net5.0\Eventos.pdb
+F:\Proyectos\POO\Eventos\obj\Debug\net5.0\Eventos.genruntimeconfig.cache

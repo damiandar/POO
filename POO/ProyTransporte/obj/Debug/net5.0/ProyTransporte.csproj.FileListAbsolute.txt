@@ -1,0 +1,16 @@
+F:\Proyectos\POO\ProyTransporte\bin\Debug\net5.0\ProyTransporte.exe
+F:\Proyectos\POO\ProyTransporte\bin\Debug\net5.0\ProyTransporte.deps.json
+F:\Proyectos\POO\ProyTransporte\bin\Debug\net5.0\ProyTransporte.runtimeconfig.json
+F:\Proyectos\POO\ProyTransporte\bin\Debug\net5.0\ProyTransporte.runtimeconfig.dev.json
+F:\Proyectos\POO\ProyTransporte\bin\Debug\net5.0\ProyTransporte.dll
+F:\Proyectos\POO\ProyTransporte\bin\Debug\net5.0\ref\ProyTransporte.dll
+F:\Proyectos\POO\ProyTransporte\bin\Debug\net5.0\ProyTransporte.pdb
+F:\Proyectos\POO\ProyTransporte\obj\Debug\net5.0\ProyTransporte.csproj.AssemblyReference.cache
+F:\Proyectos\POO\ProyTransporte\obj\Debug\net5.0\ProyTransporte.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proyectos\POO\ProyTransporte\obj\Debug\net5.0\ProyTransporte.AssemblyInfoInputs.cache
+F:\Proyectos\POO\ProyTransporte\obj\Debug\net5.0\ProyTransporte.AssemblyInfo.cs
+F:\Proyectos\POO\ProyTransporte\obj\Debug\net5.0\ProyTransporte.csproj.CoreCompileInputs.cache
+F:\Proyectos\POO\ProyTransporte\obj\Debug\net5.0\ProyTransporte.dll
+F:\Proyectos\POO\ProyTransporte\obj\Debug\net5.0\ref\ProyTransporte.dll
+F:\Proyectos\POO\ProyTransporte\obj\Debug\net5.0\ProyTransporte.pdb
+F:\Proyectos\POO\ProyTransporte\obj\Debug\net5.0\ProyTransporte.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\ISTEA\poo\RestaurantClase7\bin\Debug\net5.0\RestaurantClase7.exe
+D:\ISTEA\poo\RestaurantClase7\bin\Debug\net5.0\RestaurantClase7.deps.json
+D:\ISTEA\poo\RestaurantClase7\bin\Debug\net5.0\RestaurantClase7.runtimeconfig.json
+D:\ISTEA\poo\RestaurantClase7\bin\Debug\net5.0\RestaurantClase7.runtimeconfig.dev.json
+D:\ISTEA\poo\RestaurantClase7\bin\Debug\net5.0\RestaurantClase7.dll
+D:\ISTEA\poo\RestaurantClase7\bin\Debug\net5.0\ref\RestaurantClase7.dll
+D:\ISTEA\poo\RestaurantClase7\bin\Debug\net5.0\RestaurantClase7.pdb
+D:\ISTEA\poo\RestaurantClase7\obj\Debug\net5.0\RestaurantClase7.csproj.AssemblyReference.cache
+D:\ISTEA\poo\RestaurantClase7\obj\Debug\net5.0\RestaurantClase7.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISTEA\poo\RestaurantClase7\obj\Debug\net5.0\RestaurantClase7.AssemblyInfoInputs.cache
+D:\ISTEA\poo\RestaurantClase7\obj\Debug\net5.0\RestaurantClase7.AssemblyInfo.cs
+D:\ISTEA\poo\RestaurantClase7\obj\Debug\net5.0\RestaurantClase7.csproj.CoreCompileInputs.cache
+D:\ISTEA\poo\RestaurantClase7\obj\Debug\net5.0\RestaurantClase7.dll
+D:\ISTEA\poo\RestaurantClase7\obj\Debug\net5.0\ref\RestaurantClase7.dll
+D:\ISTEA\poo\RestaurantClase7\obj\Debug\net5.0\RestaurantClase7.pdb
+D:\ISTEA\poo\RestaurantClase7\obj\Debug\net5.0\RestaurantClase7.genruntimeconfig.cache

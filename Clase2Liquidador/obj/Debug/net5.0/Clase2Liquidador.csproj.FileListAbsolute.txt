@@ -1,0 +1,16 @@
+F:\istea\POO\Clase2Liquidador\bin\Debug\net5.0\Clase2Liquidador.exe
+F:\istea\POO\Clase2Liquidador\bin\Debug\net5.0\Clase2Liquidador.deps.json
+F:\istea\POO\Clase2Liquidador\bin\Debug\net5.0\Clase2Liquidador.runtimeconfig.json
+F:\istea\POO\Clase2Liquidador\bin\Debug\net5.0\Clase2Liquidador.runtimeconfig.dev.json
+F:\istea\POO\Clase2Liquidador\bin\Debug\net5.0\Clase2Liquidador.dll
+F:\istea\POO\Clase2Liquidador\bin\Debug\net5.0\ref\Clase2Liquidador.dll
+F:\istea\POO\Clase2Liquidador\bin\Debug\net5.0\Clase2Liquidador.pdb
+F:\istea\POO\Clase2Liquidador\obj\Debug\net5.0\Clase2Liquidador.csproj.AssemblyReference.cache
+F:\istea\POO\Clase2Liquidador\obj\Debug\net5.0\Clase2Liquidador.GeneratedMSBuildEditorConfig.editorconfig
+F:\istea\POO\Clase2Liquidador\obj\Debug\net5.0\Clase2Liquidador.AssemblyInfoInputs.cache
+F:\istea\POO\Clase2Liquidador\obj\Debug\net5.0\Clase2Liquidador.AssemblyInfo.cs
+F:\istea\POO\Clase2Liquidador\obj\Debug\net5.0\Clase2Liquidador.csproj.CoreCompileInputs.cache
+F:\istea\POO\Clase2Liquidador\obj\Debug\net5.0\Clase2Liquidador.dll
+F:\istea\POO\Clase2Liquidador\obj\Debug\net5.0\ref\Clase2Liquidador.dll
+F:\istea\POO\Clase2Liquidador\obj\Debug\net5.0\Clase2Liquidador.pdb
+F:\istea\POO\Clase2Liquidador\obj\Debug\net5.0\Clase2Liquidador.genruntimeconfig.cache

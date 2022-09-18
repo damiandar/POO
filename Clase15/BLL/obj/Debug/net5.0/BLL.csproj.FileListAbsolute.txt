@@ -1,0 +1,17 @@
+D:\ISTEA\POO\Clase15\BLL\bin\Debug\net5.0\BLL.deps.json
+D:\ISTEA\POO\Clase15\BLL\bin\Debug\net5.0\BLL.dll
+D:\ISTEA\POO\Clase15\BLL\bin\Debug\net5.0\ref\BLL.dll
+D:\ISTEA\POO\Clase15\BLL\bin\Debug\net5.0\BLL.pdb
+D:\ISTEA\POO\Clase15\BLL\bin\Debug\net5.0\DAL.dll
+D:\ISTEA\POO\Clase15\BLL\bin\Debug\net5.0\Entidades.dll
+D:\ISTEA\POO\Clase15\BLL\bin\Debug\net5.0\DAL.pdb
+D:\ISTEA\POO\Clase15\BLL\bin\Debug\net5.0\Entidades.pdb
+D:\ISTEA\POO\Clase15\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+D:\ISTEA\POO\Clase15\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISTEA\POO\Clase15\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+D:\ISTEA\POO\Clase15\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+D:\ISTEA\POO\Clase15\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+D:\ISTEA\POO\Clase15\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+D:\ISTEA\POO\Clase15\BLL\obj\Debug\net5.0\BLL.dll
+D:\ISTEA\POO\Clase15\BLL\obj\Debug\net5.0\ref\BLL.dll
+D:\ISTEA\POO\Clase15\BLL\obj\Debug\net5.0\BLL.pdb

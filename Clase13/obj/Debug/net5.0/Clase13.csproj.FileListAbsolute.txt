@@ -1,0 +1,16 @@
+D:\ISTEA\POO\Clase13\bin\Debug\net5.0\Clase13.exe
+D:\ISTEA\POO\Clase13\bin\Debug\net5.0\Clase13.deps.json
+D:\ISTEA\POO\Clase13\bin\Debug\net5.0\Clase13.runtimeconfig.json
+D:\ISTEA\POO\Clase13\bin\Debug\net5.0\Clase13.runtimeconfig.dev.json
+D:\ISTEA\POO\Clase13\bin\Debug\net5.0\Clase13.dll
+D:\ISTEA\POO\Clase13\bin\Debug\net5.0\ref\Clase13.dll
+D:\ISTEA\POO\Clase13\bin\Debug\net5.0\Clase13.pdb
+D:\ISTEA\POO\Clase13\obj\Debug\net5.0\Clase13.csproj.AssemblyReference.cache
+D:\ISTEA\POO\Clase13\obj\Debug\net5.0\Clase13.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISTEA\POO\Clase13\obj\Debug\net5.0\Clase13.AssemblyInfoInputs.cache
+D:\ISTEA\POO\Clase13\obj\Debug\net5.0\Clase13.AssemblyInfo.cs
+D:\ISTEA\POO\Clase13\obj\Debug\net5.0\Clase13.csproj.CoreCompileInputs.cache
+D:\ISTEA\POO\Clase13\obj\Debug\net5.0\Clase13.dll
+D:\ISTEA\POO\Clase13\obj\Debug\net5.0\ref\Clase13.dll
+D:\ISTEA\POO\Clase13\obj\Debug\net5.0\Clase13.pdb
+D:\ISTEA\POO\Clase13\obj\Debug\net5.0\Clase13.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+F:\Proyectos\POO\Delegados\bin\Debug\net5.0\Delegados.exe
+F:\Proyectos\POO\Delegados\bin\Debug\net5.0\Delegados.deps.json
+F:\Proyectos\POO\Delegados\bin\Debug\net5.0\Delegados.runtimeconfig.json
+F:\Proyectos\POO\Delegados\bin\Debug\net5.0\Delegados.runtimeconfig.dev.json
+F:\Proyectos\POO\Delegados\bin\Debug\net5.0\Delegados.dll
+F:\Proyectos\POO\Delegados\bin\Debug\net5.0\ref\Delegados.dll
+F:\Proyectos\POO\Delegados\bin\Debug\net5.0\Delegados.pdb
+F:\Proyectos\POO\Delegados\obj\Debug\net5.0\Delegados.csproj.AssemblyReference.cache
+F:\Proyectos\POO\Delegados\obj\Debug\net5.0\Delegados.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proyectos\POO\Delegados\obj\Debug\net5.0\Delegados.AssemblyInfoInputs.cache
+F:\Proyectos\POO\Delegados\obj\Debug\net5.0\Delegados.AssemblyInfo.cs
+F:\Proyectos\POO\Delegados\obj\Debug\net5.0\Delegados.csproj.CoreCompileInputs.cache
+F:\Proyectos\POO\Delegados\obj\Debug\net5.0\Delegados.dll
+F:\Proyectos\POO\Delegados\obj\Debug\net5.0\ref\Delegados.dll
+F:\Proyectos\POO\Delegados\obj\Debug\net5.0\Delegados.pdb
+F:\Proyectos\POO\Delegados\obj\Debug\net5.0\Delegados.genruntimeconfig.cache

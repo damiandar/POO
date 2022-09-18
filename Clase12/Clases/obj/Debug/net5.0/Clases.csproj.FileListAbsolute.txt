@@ -1,0 +1,12 @@
+D:\ISTEA\POO\Clase12\Clases\bin\Debug\net5.0\Clases.deps.json
+D:\ISTEA\POO\Clase12\Clases\bin\Debug\net5.0\Clases.dll
+D:\ISTEA\POO\Clase12\Clases\bin\Debug\net5.0\ref\Clases.dll
+D:\ISTEA\POO\Clase12\Clases\bin\Debug\net5.0\Clases.pdb
+D:\ISTEA\POO\Clase12\Clases\obj\Debug\net5.0\Clases.csproj.AssemblyReference.cache
+D:\ISTEA\POO\Clase12\Clases\obj\Debug\net5.0\Clases.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISTEA\POO\Clase12\Clases\obj\Debug\net5.0\Clases.AssemblyInfoInputs.cache
+D:\ISTEA\POO\Clase12\Clases\obj\Debug\net5.0\Clases.AssemblyInfo.cs
+D:\ISTEA\POO\Clase12\Clases\obj\Debug\net5.0\Clases.csproj.CoreCompileInputs.cache
+D:\ISTEA\POO\Clase12\Clases\obj\Debug\net5.0\Clases.dll
+D:\ISTEA\POO\Clase12\Clases\obj\Debug\net5.0\ref\Clases.dll
+D:\ISTEA\POO\Clase12\Clases\obj\Debug\net5.0\Clases.pdb

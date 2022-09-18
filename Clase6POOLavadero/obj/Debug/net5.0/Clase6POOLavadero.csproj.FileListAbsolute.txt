@@ -1,0 +1,16 @@
+D:\istea\POO\Clase6POOLavadero\bin\Debug\net5.0\Clase6POOLavadero.exe
+D:\istea\POO\Clase6POOLavadero\bin\Debug\net5.0\Clase6POOLavadero.deps.json
+D:\istea\POO\Clase6POOLavadero\bin\Debug\net5.0\Clase6POOLavadero.runtimeconfig.json
+D:\istea\POO\Clase6POOLavadero\bin\Debug\net5.0\Clase6POOLavadero.runtimeconfig.dev.json
+D:\istea\POO\Clase6POOLavadero\bin\Debug\net5.0\Clase6POOLavadero.dll
+D:\istea\POO\Clase6POOLavadero\bin\Debug\net5.0\ref\Clase6POOLavadero.dll
+D:\istea\POO\Clase6POOLavadero\bin\Debug\net5.0\Clase6POOLavadero.pdb
+D:\istea\POO\Clase6POOLavadero\obj\Debug\net5.0\Clase6POOLavadero.csproj.AssemblyReference.cache
+D:\istea\POO\Clase6POOLavadero\obj\Debug\net5.0\Clase6POOLavadero.GeneratedMSBuildEditorConfig.editorconfig
+D:\istea\POO\Clase6POOLavadero\obj\Debug\net5.0\Clase6POOLavadero.AssemblyInfoInputs.cache
+D:\istea\POO\Clase6POOLavadero\obj\Debug\net5.0\Clase6POOLavadero.AssemblyInfo.cs
+D:\istea\POO\Clase6POOLavadero\obj\Debug\net5.0\Clase6POOLavadero.csproj.CoreCompileInputs.cache
+D:\istea\POO\Clase6POOLavadero\obj\Debug\net5.0\Clase6POOLavadero.dll
+D:\istea\POO\Clase6POOLavadero\obj\Debug\net5.0\ref\Clase6POOLavadero.dll
+D:\istea\POO\Clase6POOLavadero\obj\Debug\net5.0\Clase6POOLavadero.pdb
+D:\istea\POO\Clase6POOLavadero\obj\Debug\net5.0\Clase6POOLavadero.genruntimeconfig.cache
