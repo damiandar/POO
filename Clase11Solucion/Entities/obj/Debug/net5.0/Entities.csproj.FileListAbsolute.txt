@@ -1,0 +1,12 @@
+D:\istea\POO2022\Clase11Solucion\Entities\bin\Debug\net5.0\Entities.deps.json
+D:\istea\POO2022\Clase11Solucion\Entities\bin\Debug\net5.0\Entities.dll
+D:\istea\POO2022\Clase11Solucion\Entities\bin\Debug\net5.0\ref\Entities.dll
+D:\istea\POO2022\Clase11Solucion\Entities\bin\Debug\net5.0\Entities.pdb
+D:\istea\POO2022\Clase11Solucion\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+D:\istea\POO2022\Clase11Solucion\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\istea\POO2022\Clase11Solucion\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+D:\istea\POO2022\Clase11Solucion\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+D:\istea\POO2022\Clase11Solucion\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+D:\istea\POO2022\Clase11Solucion\Entities\obj\Debug\net5.0\Entities.dll
+D:\istea\POO2022\Clase11Solucion\Entities\obj\Debug\net5.0\ref\Entities.dll
+D:\istea\POO2022\Clase11Solucion\Entities\obj\Debug\net5.0\Entities.pdb

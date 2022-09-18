@@ -1,0 +1,16 @@
+D:\ISTEA\POO2022\ProyClase6Productos\bin\Debug\net5.0\ProyClase6Productos.exe
+D:\ISTEA\POO2022\ProyClase6Productos\bin\Debug\net5.0\ProyClase6Productos.deps.json
+D:\ISTEA\POO2022\ProyClase6Productos\bin\Debug\net5.0\ProyClase6Productos.runtimeconfig.json
+D:\ISTEA\POO2022\ProyClase6Productos\bin\Debug\net5.0\ProyClase6Productos.runtimeconfig.dev.json
+D:\ISTEA\POO2022\ProyClase6Productos\bin\Debug\net5.0\ProyClase6Productos.dll
+D:\ISTEA\POO2022\ProyClase6Productos\bin\Debug\net5.0\ref\ProyClase6Productos.dll
+D:\ISTEA\POO2022\ProyClase6Productos\bin\Debug\net5.0\ProyClase6Productos.pdb
+D:\ISTEA\POO2022\ProyClase6Productos\obj\Debug\net5.0\ProyClase6Productos.csproj.AssemblyReference.cache
+D:\ISTEA\POO2022\ProyClase6Productos\obj\Debug\net5.0\ProyClase6Productos.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISTEA\POO2022\ProyClase6Productos\obj\Debug\net5.0\ProyClase6Productos.AssemblyInfoInputs.cache
+D:\ISTEA\POO2022\ProyClase6Productos\obj\Debug\net5.0\ProyClase6Productos.AssemblyInfo.cs
+D:\ISTEA\POO2022\ProyClase6Productos\obj\Debug\net5.0\ProyClase6Productos.csproj.CoreCompileInputs.cache
+D:\ISTEA\POO2022\ProyClase6Productos\obj\Debug\net5.0\ProyClase6Productos.dll
+D:\ISTEA\POO2022\ProyClase6Productos\obj\Debug\net5.0\ref\ProyClase6Productos.dll
+D:\ISTEA\POO2022\ProyClase6Productos\obj\Debug\net5.0\ProyClase6Productos.pdb
+D:\ISTEA\POO2022\ProyClase6Productos\obj\Debug\net5.0\ProyClase6Productos.genruntimeconfig.cache

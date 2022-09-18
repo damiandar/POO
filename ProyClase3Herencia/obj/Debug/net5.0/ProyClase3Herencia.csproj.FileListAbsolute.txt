@@ -1,0 +1,16 @@
+D:\ISTEA\POO2022\ProyClase3Herencia\bin\Debug\net5.0\ProyClase3Herencia.exe
+D:\ISTEA\POO2022\ProyClase3Herencia\bin\Debug\net5.0\ProyClase3Herencia.deps.json
+D:\ISTEA\POO2022\ProyClase3Herencia\bin\Debug\net5.0\ProyClase3Herencia.runtimeconfig.json
+D:\ISTEA\POO2022\ProyClase3Herencia\bin\Debug\net5.0\ProyClase3Herencia.runtimeconfig.dev.json
+D:\ISTEA\POO2022\ProyClase3Herencia\bin\Debug\net5.0\ProyClase3Herencia.dll
+D:\ISTEA\POO2022\ProyClase3Herencia\bin\Debug\net5.0\ref\ProyClase3Herencia.dll
+D:\ISTEA\POO2022\ProyClase3Herencia\bin\Debug\net5.0\ProyClase3Herencia.pdb
+D:\ISTEA\POO2022\ProyClase3Herencia\obj\Debug\net5.0\ProyClase3Herencia.csproj.AssemblyReference.cache
+D:\ISTEA\POO2022\ProyClase3Herencia\obj\Debug\net5.0\ProyClase3Herencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISTEA\POO2022\ProyClase3Herencia\obj\Debug\net5.0\ProyClase3Herencia.AssemblyInfoInputs.cache
+D:\ISTEA\POO2022\ProyClase3Herencia\obj\Debug\net5.0\ProyClase3Herencia.AssemblyInfo.cs
+D:\ISTEA\POO2022\ProyClase3Herencia\obj\Debug\net5.0\ProyClase3Herencia.csproj.CoreCompileInputs.cache
+D:\ISTEA\POO2022\ProyClase3Herencia\obj\Debug\net5.0\ProyClase3Herencia.dll
+D:\ISTEA\POO2022\ProyClase3Herencia\obj\Debug\net5.0\ref\ProyClase3Herencia.dll
+D:\ISTEA\POO2022\ProyClase3Herencia\obj\Debug\net5.0\ProyClase3Herencia.pdb
+D:\ISTEA\POO2022\ProyClase3Herencia\obj\Debug\net5.0\ProyClase3Herencia.genruntimeconfig.cache

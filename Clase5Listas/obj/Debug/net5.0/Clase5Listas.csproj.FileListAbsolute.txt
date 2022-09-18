@@ -1,0 +1,16 @@
+D:\ISTEA\POO2022\Clase5Listas\bin\Debug\net5.0\Clase5Listas.exe
+D:\ISTEA\POO2022\Clase5Listas\bin\Debug\net5.0\Clase5Listas.deps.json
+D:\ISTEA\POO2022\Clase5Listas\bin\Debug\net5.0\Clase5Listas.runtimeconfig.json
+D:\ISTEA\POO2022\Clase5Listas\bin\Debug\net5.0\Clase5Listas.runtimeconfig.dev.json
+D:\ISTEA\POO2022\Clase5Listas\bin\Debug\net5.0\Clase5Listas.dll
+D:\ISTEA\POO2022\Clase5Listas\bin\Debug\net5.0\ref\Clase5Listas.dll
+D:\ISTEA\POO2022\Clase5Listas\bin\Debug\net5.0\Clase5Listas.pdb
+D:\ISTEA\POO2022\Clase5Listas\obj\Debug\net5.0\Clase5Listas.csproj.AssemblyReference.cache
+D:\ISTEA\POO2022\Clase5Listas\obj\Debug\net5.0\Clase5Listas.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISTEA\POO2022\Clase5Listas\obj\Debug\net5.0\Clase5Listas.AssemblyInfoInputs.cache
+D:\ISTEA\POO2022\Clase5Listas\obj\Debug\net5.0\Clase5Listas.AssemblyInfo.cs
+D:\ISTEA\POO2022\Clase5Listas\obj\Debug\net5.0\Clase5Listas.csproj.CoreCompileInputs.cache
+D:\ISTEA\POO2022\Clase5Listas\obj\Debug\net5.0\Clase5Listas.dll
+D:\ISTEA\POO2022\Clase5Listas\obj\Debug\net5.0\ref\Clase5Listas.dll
+D:\ISTEA\POO2022\Clase5Listas\obj\Debug\net5.0\Clase5Listas.pdb
+D:\ISTEA\POO2022\Clase5Listas\obj\Debug\net5.0\Clase5Listas.genruntimeconfig.cache

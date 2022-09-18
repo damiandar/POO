@@ -1,0 +1,17 @@
+D:\istea\POO2022\Clase11Solucion\BLL\bin\Debug\net5.0\BLL.deps.json
+D:\istea\POO2022\Clase11Solucion\BLL\bin\Debug\net5.0\BLL.dll
+D:\istea\POO2022\Clase11Solucion\BLL\bin\Debug\net5.0\ref\BLL.dll
+D:\istea\POO2022\Clase11Solucion\BLL\bin\Debug\net5.0\BLL.pdb
+D:\istea\POO2022\Clase11Solucion\BLL\bin\Debug\net5.0\DAL.dll
+D:\istea\POO2022\Clase11Solucion\BLL\bin\Debug\net5.0\Entities.dll
+D:\istea\POO2022\Clase11Solucion\BLL\bin\Debug\net5.0\DAL.pdb
+D:\istea\POO2022\Clase11Solucion\BLL\bin\Debug\net5.0\Entities.pdb
+D:\istea\POO2022\Clase11Solucion\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+D:\istea\POO2022\Clase11Solucion\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\istea\POO2022\Clase11Solucion\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+D:\istea\POO2022\Clase11Solucion\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+D:\istea\POO2022\Clase11Solucion\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+D:\istea\POO2022\Clase11Solucion\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+D:\istea\POO2022\Clase11Solucion\BLL\obj\Debug\net5.0\BLL.dll
+D:\istea\POO2022\Clase11Solucion\BLL\obj\Debug\net5.0\ref\BLL.dll
+D:\istea\POO2022\Clase11Solucion\BLL\obj\Debug\net5.0\BLL.pdb

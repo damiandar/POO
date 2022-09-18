@@ -1,0 +1,16 @@
+D:\ISTEA\POO2022\Clase16eventos\bin\Debug\net5.0\Clase16eventos.exe
+D:\ISTEA\POO2022\Clase16eventos\bin\Debug\net5.0\Clase16eventos.deps.json
+D:\ISTEA\POO2022\Clase16eventos\bin\Debug\net5.0\Clase16eventos.runtimeconfig.json
+D:\ISTEA\POO2022\Clase16eventos\bin\Debug\net5.0\Clase16eventos.runtimeconfig.dev.json
+D:\ISTEA\POO2022\Clase16eventos\bin\Debug\net5.0\Clase16eventos.dll
+D:\ISTEA\POO2022\Clase16eventos\bin\Debug\net5.0\ref\Clase16eventos.dll
+D:\ISTEA\POO2022\Clase16eventos\bin\Debug\net5.0\Clase16eventos.pdb
+D:\ISTEA\POO2022\Clase16eventos\obj\Debug\net5.0\Clase16eventos.csproj.AssemblyReference.cache
+D:\ISTEA\POO2022\Clase16eventos\obj\Debug\net5.0\Clase16eventos.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISTEA\POO2022\Clase16eventos\obj\Debug\net5.0\Clase16eventos.AssemblyInfoInputs.cache
+D:\ISTEA\POO2022\Clase16eventos\obj\Debug\net5.0\Clase16eventos.AssemblyInfo.cs
+D:\ISTEA\POO2022\Clase16eventos\obj\Debug\net5.0\Clase16eventos.csproj.CoreCompileInputs.cache
+D:\ISTEA\POO2022\Clase16eventos\obj\Debug\net5.0\Clase16eventos.dll
+D:\ISTEA\POO2022\Clase16eventos\obj\Debug\net5.0\ref\Clase16eventos.dll
+D:\ISTEA\POO2022\Clase16eventos\obj\Debug\net5.0\Clase16eventos.pdb
+D:\ISTEA\POO2022\Clase16eventos\obj\Debug\net5.0\Clase16eventos.genruntimeconfig.cache

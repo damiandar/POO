@@ -1,0 +1,16 @@
+D:\ISTEA\poo2022\Cohete\bin\Debug\net5.0\Cohete.exe
+D:\ISTEA\poo2022\Cohete\bin\Debug\net5.0\Cohete.deps.json
+D:\ISTEA\poo2022\Cohete\bin\Debug\net5.0\Cohete.runtimeconfig.json
+D:\ISTEA\poo2022\Cohete\bin\Debug\net5.0\Cohete.runtimeconfig.dev.json
+D:\ISTEA\poo2022\Cohete\bin\Debug\net5.0\Cohete.dll
+D:\ISTEA\poo2022\Cohete\bin\Debug\net5.0\ref\Cohete.dll
+D:\ISTEA\poo2022\Cohete\bin\Debug\net5.0\Cohete.pdb
+D:\ISTEA\poo2022\Cohete\obj\Debug\net5.0\Cohete.csproj.AssemblyReference.cache
+D:\ISTEA\poo2022\Cohete\obj\Debug\net5.0\Cohete.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISTEA\poo2022\Cohete\obj\Debug\net5.0\Cohete.AssemblyInfoInputs.cache
+D:\ISTEA\poo2022\Cohete\obj\Debug\net5.0\Cohete.AssemblyInfo.cs
+D:\ISTEA\poo2022\Cohete\obj\Debug\net5.0\Cohete.csproj.CoreCompileInputs.cache
+D:\ISTEA\poo2022\Cohete\obj\Debug\net5.0\Cohete.dll
+D:\ISTEA\poo2022\Cohete\obj\Debug\net5.0\ref\Cohete.dll
+D:\ISTEA\poo2022\Cohete\obj\Debug\net5.0\Cohete.pdb
+D:\ISTEA\poo2022\Cohete\obj\Debug\net5.0\Cohete.genruntimeconfig.cache

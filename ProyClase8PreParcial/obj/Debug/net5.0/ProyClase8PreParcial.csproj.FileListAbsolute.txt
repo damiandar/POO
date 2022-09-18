@@ -1,0 +1,16 @@
+D:\ISTEA\POO2022\ProyClase8PreParcial\bin\Debug\net5.0\ProyClase8PreParcial.exe
+D:\ISTEA\POO2022\ProyClase8PreParcial\bin\Debug\net5.0\ProyClase8PreParcial.deps.json
+D:\ISTEA\POO2022\ProyClase8PreParcial\bin\Debug\net5.0\ProyClase8PreParcial.runtimeconfig.json
+D:\ISTEA\POO2022\ProyClase8PreParcial\bin\Debug\net5.0\ProyClase8PreParcial.runtimeconfig.dev.json
+D:\ISTEA\POO2022\ProyClase8PreParcial\bin\Debug\net5.0\ProyClase8PreParcial.dll
+D:\ISTEA\POO2022\ProyClase8PreParcial\bin\Debug\net5.0\ref\ProyClase8PreParcial.dll
+D:\ISTEA\POO2022\ProyClase8PreParcial\bin\Debug\net5.0\ProyClase8PreParcial.pdb
+D:\ISTEA\POO2022\ProyClase8PreParcial\obj\Debug\net5.0\ProyClase8PreParcial.csproj.AssemblyReference.cache
+D:\ISTEA\POO2022\ProyClase8PreParcial\obj\Debug\net5.0\ProyClase8PreParcial.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISTEA\POO2022\ProyClase8PreParcial\obj\Debug\net5.0\ProyClase8PreParcial.AssemblyInfoInputs.cache
+D:\ISTEA\POO2022\ProyClase8PreParcial\obj\Debug\net5.0\ProyClase8PreParcial.AssemblyInfo.cs
+D:\ISTEA\POO2022\ProyClase8PreParcial\obj\Debug\net5.0\ProyClase8PreParcial.csproj.CoreCompileInputs.cache
+D:\ISTEA\POO2022\ProyClase8PreParcial\obj\Debug\net5.0\ProyClase8PreParcial.dll
+D:\ISTEA\POO2022\ProyClase8PreParcial\obj\Debug\net5.0\ref\ProyClase8PreParcial.dll
+D:\ISTEA\POO2022\ProyClase8PreParcial\obj\Debug\net5.0\ProyClase8PreParcial.pdb
+D:\ISTEA\POO2022\ProyClase8PreParcial\obj\Debug\net5.0\ProyClase8PreParcial.genruntimeconfig.cache

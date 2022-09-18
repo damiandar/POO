@@ -1,0 +1,16 @@
+D:\ISTEA\POO2022\ProyClase4Computadora\bin\Debug\net5.0\ProyClase4Computadora.exe
+D:\ISTEA\POO2022\ProyClase4Computadora\bin\Debug\net5.0\ProyClase4Computadora.deps.json
+D:\ISTEA\POO2022\ProyClase4Computadora\bin\Debug\net5.0\ProyClase4Computadora.runtimeconfig.json
+D:\ISTEA\POO2022\ProyClase4Computadora\bin\Debug\net5.0\ProyClase4Computadora.runtimeconfig.dev.json
+D:\ISTEA\POO2022\ProyClase4Computadora\bin\Debug\net5.0\ProyClase4Computadora.dll
+D:\ISTEA\POO2022\ProyClase4Computadora\bin\Debug\net5.0\ref\ProyClase4Computadora.dll
+D:\ISTEA\POO2022\ProyClase4Computadora\bin\Debug\net5.0\ProyClase4Computadora.pdb
+D:\ISTEA\POO2022\ProyClase4Computadora\obj\Debug\net5.0\ProyClase4Computadora.csproj.AssemblyReference.cache
+D:\ISTEA\POO2022\ProyClase4Computadora\obj\Debug\net5.0\ProyClase4Computadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISTEA\POO2022\ProyClase4Computadora\obj\Debug\net5.0\ProyClase4Computadora.AssemblyInfoInputs.cache
+D:\ISTEA\POO2022\ProyClase4Computadora\obj\Debug\net5.0\ProyClase4Computadora.AssemblyInfo.cs
+D:\ISTEA\POO2022\ProyClase4Computadora\obj\Debug\net5.0\ProyClase4Computadora.csproj.CoreCompileInputs.cache
+D:\ISTEA\POO2022\ProyClase4Computadora\obj\Debug\net5.0\ProyClase4Computadora.dll
+D:\ISTEA\POO2022\ProyClase4Computadora\obj\Debug\net5.0\ref\ProyClase4Computadora.dll
+D:\ISTEA\POO2022\ProyClase4Computadora\obj\Debug\net5.0\ProyClase4Computadora.pdb
+D:\ISTEA\POO2022\ProyClase4Computadora\obj\Debug\net5.0\ProyClase4Computadora.genruntimeconfig.cache

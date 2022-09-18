@@ -1,0 +1,16 @@
+D:\ISTEA\POO2022\ProyClase7\bin\Debug\net5.0\ProyClase7.exe
+D:\ISTEA\POO2022\ProyClase7\bin\Debug\net5.0\ProyClase7.deps.json
+D:\ISTEA\POO2022\ProyClase7\bin\Debug\net5.0\ProyClase7.runtimeconfig.json
+D:\ISTEA\POO2022\ProyClase7\bin\Debug\net5.0\ProyClase7.runtimeconfig.dev.json
+D:\ISTEA\POO2022\ProyClase7\bin\Debug\net5.0\ProyClase7.dll
+D:\ISTEA\POO2022\ProyClase7\bin\Debug\net5.0\ref\ProyClase7.dll
+D:\ISTEA\POO2022\ProyClase7\bin\Debug\net5.0\ProyClase7.pdb
+D:\ISTEA\POO2022\ProyClase7\obj\Debug\net5.0\ProyClase7.csproj.AssemblyReference.cache
+D:\ISTEA\POO2022\ProyClase7\obj\Debug\net5.0\ProyClase7.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISTEA\POO2022\ProyClase7\obj\Debug\net5.0\ProyClase7.AssemblyInfoInputs.cache
+D:\ISTEA\POO2022\ProyClase7\obj\Debug\net5.0\ProyClase7.AssemblyInfo.cs
+D:\ISTEA\POO2022\ProyClase7\obj\Debug\net5.0\ProyClase7.csproj.CoreCompileInputs.cache
+D:\ISTEA\POO2022\ProyClase7\obj\Debug\net5.0\ProyClase7.dll
+D:\ISTEA\POO2022\ProyClase7\obj\Debug\net5.0\ref\ProyClase7.dll
+D:\ISTEA\POO2022\ProyClase7\obj\Debug\net5.0\ProyClase7.pdb
+D:\ISTEA\POO2022\ProyClase7\obj\Debug\net5.0\ProyClase7.genruntimeconfig.cache

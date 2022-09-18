@@ -1,0 +1,16 @@
+D:\ISTEA\POO2022\Clase16TiposGenericos\bin\Debug\net5.0\Clase16TiposGenericos.exe
+D:\ISTEA\POO2022\Clase16TiposGenericos\bin\Debug\net5.0\Clase16TiposGenericos.deps.json
+D:\ISTEA\POO2022\Clase16TiposGenericos\bin\Debug\net5.0\Clase16TiposGenericos.runtimeconfig.json
+D:\ISTEA\POO2022\Clase16TiposGenericos\bin\Debug\net5.0\Clase16TiposGenericos.runtimeconfig.dev.json
+D:\ISTEA\POO2022\Clase16TiposGenericos\bin\Debug\net5.0\Clase16TiposGenericos.dll
+D:\ISTEA\POO2022\Clase16TiposGenericos\bin\Debug\net5.0\ref\Clase16TiposGenericos.dll
+D:\ISTEA\POO2022\Clase16TiposGenericos\bin\Debug\net5.0\Clase16TiposGenericos.pdb
+D:\ISTEA\POO2022\Clase16TiposGenericos\obj\Debug\net5.0\Clase16TiposGenericos.csproj.AssemblyReference.cache
+D:\ISTEA\POO2022\Clase16TiposGenericos\obj\Debug\net5.0\Clase16TiposGenericos.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISTEA\POO2022\Clase16TiposGenericos\obj\Debug\net5.0\Clase16TiposGenericos.AssemblyInfoInputs.cache
+D:\ISTEA\POO2022\Clase16TiposGenericos\obj\Debug\net5.0\Clase16TiposGenericos.AssemblyInfo.cs
+D:\ISTEA\POO2022\Clase16TiposGenericos\obj\Debug\net5.0\Clase16TiposGenericos.csproj.CoreCompileInputs.cache
+D:\ISTEA\POO2022\Clase16TiposGenericos\obj\Debug\net5.0\Clase16TiposGenericos.dll
+D:\ISTEA\POO2022\Clase16TiposGenericos\obj\Debug\net5.0\ref\Clase16TiposGenericos.dll
+D:\ISTEA\POO2022\Clase16TiposGenericos\obj\Debug\net5.0\Clase16TiposGenericos.pdb
+D:\ISTEA\POO2022\Clase16TiposGenericos\obj\Debug\net5.0\Clase16TiposGenericos.genruntimeconfig.cache

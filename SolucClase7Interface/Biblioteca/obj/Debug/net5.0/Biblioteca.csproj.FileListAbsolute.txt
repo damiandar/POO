@@ -1,0 +1,12 @@
+D:\ISTEA\POO2022\SolucClase7Interface\biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+D:\ISTEA\POO2022\SolucClase7Interface\biblioteca\bin\Debug\net5.0\Biblioteca.dll
+D:\ISTEA\POO2022\SolucClase7Interface\biblioteca\bin\Debug\net5.0\ref\Biblioteca.dll
+D:\ISTEA\POO2022\SolucClase7Interface\biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+D:\ISTEA\POO2022\SolucClase7Interface\biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+D:\ISTEA\POO2022\SolucClase7Interface\biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISTEA\POO2022\SolucClase7Interface\biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+D:\ISTEA\POO2022\SolucClase7Interface\biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+D:\ISTEA\POO2022\SolucClase7Interface\biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+D:\ISTEA\POO2022\SolucClase7Interface\biblioteca\obj\Debug\net5.0\Biblioteca.dll
+D:\ISTEA\POO2022\SolucClase7Interface\biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
+D:\ISTEA\POO2022\SolucClase7Interface\biblioteca\obj\Debug\net5.0\Biblioteca.pdb

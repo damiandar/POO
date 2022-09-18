@@ -1,0 +1,16 @@
+D:\ISTEA\POO2022\Clase1v2019\bin\Debug\net5.0\Clase1v2019.exe
+D:\ISTEA\POO2022\Clase1v2019\bin\Debug\net5.0\Clase1v2019.deps.json
+D:\ISTEA\POO2022\Clase1v2019\bin\Debug\net5.0\Clase1v2019.runtimeconfig.json
+D:\ISTEA\POO2022\Clase1v2019\bin\Debug\net5.0\Clase1v2019.runtimeconfig.dev.json
+D:\ISTEA\POO2022\Clase1v2019\bin\Debug\net5.0\Clase1v2019.dll
+D:\ISTEA\POO2022\Clase1v2019\bin\Debug\net5.0\ref\Clase1v2019.dll
+D:\ISTEA\POO2022\Clase1v2019\bin\Debug\net5.0\Clase1v2019.pdb
+D:\ISTEA\POO2022\Clase1v2019\obj\Debug\net5.0\Clase1v2019.csproj.AssemblyReference.cache
+D:\ISTEA\POO2022\Clase1v2019\obj\Debug\net5.0\Clase1v2019.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISTEA\POO2022\Clase1v2019\obj\Debug\net5.0\Clase1v2019.AssemblyInfoInputs.cache
+D:\ISTEA\POO2022\Clase1v2019\obj\Debug\net5.0\Clase1v2019.AssemblyInfo.cs
+D:\ISTEA\POO2022\Clase1v2019\obj\Debug\net5.0\Clase1v2019.csproj.CoreCompileInputs.cache
+D:\ISTEA\POO2022\Clase1v2019\obj\Debug\net5.0\Clase1v2019.dll
+D:\ISTEA\POO2022\Clase1v2019\obj\Debug\net5.0\ref\Clase1v2019.dll
+D:\ISTEA\POO2022\Clase1v2019\obj\Debug\net5.0\Clase1v2019.pdb
+D:\ISTEA\POO2022\Clase1v2019\obj\Debug\net5.0\Clase1v2019.genruntimeconfig.cache

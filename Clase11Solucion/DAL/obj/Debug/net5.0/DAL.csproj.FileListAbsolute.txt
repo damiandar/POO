@@ -1,0 +1,15 @@
+D:\istea\POO2022\Clase11Solucion\DAL\bin\Debug\net5.0\DAL.deps.json
+D:\istea\POO2022\Clase11Solucion\DAL\bin\Debug\net5.0\DAL.dll
+D:\istea\POO2022\Clase11Solucion\DAL\bin\Debug\net5.0\ref\DAL.dll
+D:\istea\POO2022\Clase11Solucion\DAL\bin\Debug\net5.0\DAL.pdb
+D:\istea\POO2022\Clase11Solucion\DAL\bin\Debug\net5.0\Entities.dll
+D:\istea\POO2022\Clase11Solucion\DAL\bin\Debug\net5.0\Entities.pdb
+D:\istea\POO2022\Clase11Solucion\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\istea\POO2022\Clase11Solucion\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\istea\POO2022\Clase11Solucion\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\istea\POO2022\Clase11Solucion\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\istea\POO2022\Clase11Solucion\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\istea\POO2022\Clase11Solucion\DAL\obj\Debug\net5.0\DAL.csproj.CopyComplete
+D:\istea\POO2022\Clase11Solucion\DAL\obj\Debug\net5.0\DAL.dll
+D:\istea\POO2022\Clase11Solucion\DAL\obj\Debug\net5.0\ref\DAL.dll
+D:\istea\POO2022\Clase11Solucion\DAL\obj\Debug\net5.0\DAL.pdb

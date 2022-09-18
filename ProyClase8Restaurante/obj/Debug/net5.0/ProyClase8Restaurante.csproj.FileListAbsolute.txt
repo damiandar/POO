@@ -1,0 +1,16 @@
+D:\ISTEA\POO2022\ProyClase8Restaurante\bin\Debug\net5.0\ProyClase8Restaurante.exe
+D:\ISTEA\POO2022\ProyClase8Restaurante\bin\Debug\net5.0\ProyClase8Restaurante.deps.json
+D:\ISTEA\POO2022\ProyClase8Restaurante\bin\Debug\net5.0\ProyClase8Restaurante.runtimeconfig.json
+D:\ISTEA\POO2022\ProyClase8Restaurante\bin\Debug\net5.0\ProyClase8Restaurante.runtimeconfig.dev.json
+D:\ISTEA\POO2022\ProyClase8Restaurante\bin\Debug\net5.0\ProyClase8Restaurante.dll
+D:\ISTEA\POO2022\ProyClase8Restaurante\bin\Debug\net5.0\ref\ProyClase8Restaurante.dll
+D:\ISTEA\POO2022\ProyClase8Restaurante\bin\Debug\net5.0\ProyClase8Restaurante.pdb
+D:\ISTEA\POO2022\ProyClase8Restaurante\obj\Debug\net5.0\ProyClase8Restaurante.csproj.AssemblyReference.cache
+D:\ISTEA\POO2022\ProyClase8Restaurante\obj\Debug\net5.0\ProyClase8Restaurante.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISTEA\POO2022\ProyClase8Restaurante\obj\Debug\net5.0\ProyClase8Restaurante.AssemblyInfoInputs.cache
+D:\ISTEA\POO2022\ProyClase8Restaurante\obj\Debug\net5.0\ProyClase8Restaurante.AssemblyInfo.cs
+D:\ISTEA\POO2022\ProyClase8Restaurante\obj\Debug\net5.0\ProyClase8Restaurante.csproj.CoreCompileInputs.cache
+D:\ISTEA\POO2022\ProyClase8Restaurante\obj\Debug\net5.0\ProyClase8Restaurante.dll
+D:\ISTEA\POO2022\ProyClase8Restaurante\obj\Debug\net5.0\ref\ProyClase8Restaurante.dll
+D:\ISTEA\POO2022\ProyClase8Restaurante\obj\Debug\net5.0\ProyClase8Restaurante.pdb
+D:\ISTEA\POO2022\ProyClase8Restaurante\obj\Debug\net5.0\ProyClase8Restaurante.genruntimeconfig.cache

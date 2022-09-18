@@ -1,0 +1,16 @@
+D:\ISTEA\poo2022\Clase2\bin\Debug\net5.0\Clase2.exe
+D:\ISTEA\poo2022\Clase2\bin\Debug\net5.0\Clase2.deps.json
+D:\ISTEA\poo2022\Clase2\bin\Debug\net5.0\Clase2.runtimeconfig.json
+D:\ISTEA\poo2022\Clase2\bin\Debug\net5.0\Clase2.runtimeconfig.dev.json
+D:\ISTEA\poo2022\Clase2\bin\Debug\net5.0\Clase2.dll
+D:\ISTEA\poo2022\Clase2\bin\Debug\net5.0\ref\Clase2.dll
+D:\ISTEA\poo2022\Clase2\bin\Debug\net5.0\Clase2.pdb
+D:\ISTEA\poo2022\Clase2\obj\Debug\net5.0\Clase2.csproj.AssemblyReference.cache
+D:\ISTEA\poo2022\Clase2\obj\Debug\net5.0\Clase2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISTEA\poo2022\Clase2\obj\Debug\net5.0\Clase2.AssemblyInfoInputs.cache
+D:\ISTEA\poo2022\Clase2\obj\Debug\net5.0\Clase2.AssemblyInfo.cs
+D:\ISTEA\poo2022\Clase2\obj\Debug\net5.0\Clase2.csproj.CoreCompileInputs.cache
+D:\ISTEA\poo2022\Clase2\obj\Debug\net5.0\Clase2.dll
+D:\ISTEA\poo2022\Clase2\obj\Debug\net5.0\ref\Clase2.dll
+D:\ISTEA\poo2022\Clase2\obj\Debug\net5.0\Clase2.pdb
+D:\ISTEA\poo2022\Clase2\obj\Debug\net5.0\Clase2.genruntimeconfig.cache

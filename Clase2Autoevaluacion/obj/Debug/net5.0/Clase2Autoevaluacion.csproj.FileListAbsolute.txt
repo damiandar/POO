@@ -1,0 +1,16 @@
+D:\ISTEA\POO2022\Clase2Autoevaluacion\bin\Debug\net5.0\Clase2Autoevaluacion.exe
+D:\ISTEA\POO2022\Clase2Autoevaluacion\bin\Debug\net5.0\Clase2Autoevaluacion.deps.json
+D:\ISTEA\POO2022\Clase2Autoevaluacion\bin\Debug\net5.0\Clase2Autoevaluacion.runtimeconfig.json
+D:\ISTEA\POO2022\Clase2Autoevaluacion\bin\Debug\net5.0\Clase2Autoevaluacion.runtimeconfig.dev.json
+D:\ISTEA\POO2022\Clase2Autoevaluacion\bin\Debug\net5.0\Clase2Autoevaluacion.dll
+D:\ISTEA\POO2022\Clase2Autoevaluacion\bin\Debug\net5.0\ref\Clase2Autoevaluacion.dll
+D:\ISTEA\POO2022\Clase2Autoevaluacion\bin\Debug\net5.0\Clase2Autoevaluacion.pdb
+D:\ISTEA\POO2022\Clase2Autoevaluacion\obj\Debug\net5.0\Clase2Autoevaluacion.csproj.AssemblyReference.cache
+D:\ISTEA\POO2022\Clase2Autoevaluacion\obj\Debug\net5.0\Clase2Autoevaluacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISTEA\POO2022\Clase2Autoevaluacion\obj\Debug\net5.0\Clase2Autoevaluacion.AssemblyInfoInputs.cache
+D:\ISTEA\POO2022\Clase2Autoevaluacion\obj\Debug\net5.0\Clase2Autoevaluacion.AssemblyInfo.cs
+D:\ISTEA\POO2022\Clase2Autoevaluacion\obj\Debug\net5.0\Clase2Autoevaluacion.csproj.CoreCompileInputs.cache
+D:\ISTEA\POO2022\Clase2Autoevaluacion\obj\Debug\net5.0\Clase2Autoevaluacion.dll
+D:\ISTEA\POO2022\Clase2Autoevaluacion\obj\Debug\net5.0\ref\Clase2Autoevaluacion.dll
+D:\ISTEA\POO2022\Clase2Autoevaluacion\obj\Debug\net5.0\Clase2Autoevaluacion.pdb
+D:\ISTEA\POO2022\Clase2Autoevaluacion\obj\Debug\net5.0\Clase2Autoevaluacion.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\ISTEA\POO2022\Clase5Ingredientes\bin\Debug\net5.0\Clase5Ingredientes.exe
+D:\ISTEA\POO2022\Clase5Ingredientes\bin\Debug\net5.0\Clase5Ingredientes.deps.json
+D:\ISTEA\POO2022\Clase5Ingredientes\bin\Debug\net5.0\Clase5Ingredientes.runtimeconfig.json
+D:\ISTEA\POO2022\Clase5Ingredientes\bin\Debug\net5.0\Clase5Ingredientes.runtimeconfig.dev.json
+D:\ISTEA\POO2022\Clase5Ingredientes\bin\Debug\net5.0\Clase5Ingredientes.dll
+D:\ISTEA\POO2022\Clase5Ingredientes\bin\Debug\net5.0\ref\Clase5Ingredientes.dll
+D:\ISTEA\POO2022\Clase5Ingredientes\bin\Debug\net5.0\Clase5Ingredientes.pdb
+D:\ISTEA\POO2022\Clase5Ingredientes\obj\Debug\net5.0\Clase5Ingredientes.csproj.AssemblyReference.cache
+D:\ISTEA\POO2022\Clase5Ingredientes\obj\Debug\net5.0\Clase5Ingredientes.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISTEA\POO2022\Clase5Ingredientes\obj\Debug\net5.0\Clase5Ingredientes.AssemblyInfoInputs.cache
+D:\ISTEA\POO2022\Clase5Ingredientes\obj\Debug\net5.0\Clase5Ingredientes.AssemblyInfo.cs
+D:\ISTEA\POO2022\Clase5Ingredientes\obj\Debug\net5.0\Clase5Ingredientes.csproj.CoreCompileInputs.cache
+D:\ISTEA\POO2022\Clase5Ingredientes\obj\Debug\net5.0\Clase5Ingredientes.dll
+D:\ISTEA\POO2022\Clase5Ingredientes\obj\Debug\net5.0\ref\Clase5Ingredientes.dll
+D:\ISTEA\POO2022\Clase5Ingredientes\obj\Debug\net5.0\Clase5Ingredientes.pdb
+D:\ISTEA\POO2022\Clase5Ingredientes\obj\Debug\net5.0\Clase5Ingredientes.genruntimeconfig.cache
