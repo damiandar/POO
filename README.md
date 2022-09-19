@@ -51,3 +51,19 @@ Podemos	preguntar	por	un	tipo	especifico.
 
 • Is
 Pregunta	si	un	tipo	pertenece	al	árbol	de	herencia
+
+## Alcance	de	miembros
+• Publicas:	No	hay	restricciones	de	uso	de	las	
+entidades	así	declaradas.
+
+• Protected:	Accesibles	solo	en	las	clases	derivadas.
+
+• Internal:	Con	este	modificador,	las	entidades	son	
+accedidas	solo	por	el	programa	que	contiene	la	
+declaración	de	la	entidad.
+
+• Protected	internal:	Es	la	unión	de	los	dos	casos
+
+• Privadas:	Solo	accedidas	en	su	contexto	de	
+declaración
+
